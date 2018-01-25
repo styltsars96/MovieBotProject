@@ -20,3 +20,9 @@ functionGlobalContext: {
 apiai
 
 request
+
+You need to add access tokens to the messageWebHookController Node.
+
+One for Facebook messenger app, one for Dialogflow.
+
+You also need an API key  https://www.themoviedb.org/ and add it to the "GET MOVIE API" http request node.
