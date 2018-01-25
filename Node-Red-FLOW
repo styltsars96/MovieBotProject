@@ -1,0 +1,1 @@
+[{"id":"1e723925.fbd527","type":"http request","z":"d916f26a.15e4","name":"GET MOVIE DB API","method":"GET","ret":"txt","url":"https://api.themoviedb.org/3/{{{path}}}?api_key=API_KEY_HERE&language=en-US{{{parameters}}}","tls":"","x":600,"y":120,"wires":[["192c63ab.896d5c"]]}]
